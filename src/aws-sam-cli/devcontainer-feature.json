@@ -1,0 +1,9 @@
+{
+    "id": "aws-sam-cli",
+    "version": "1.0.0",
+    "name": "AWS SAM CLI",
+    "description": "This feature installs the latest version of the AWS SAM CLI.",
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ]
+}
