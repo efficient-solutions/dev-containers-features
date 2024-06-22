@@ -1,11 +1,20 @@
-# AWS SAM CLI
 
-This feature installs the latest version of the [AWS SAM CLI](https://github.com/aws/aws-sam-cli), a command-line interface for building, testing, and deploying serverless applications defined by AWS Serverless Application Model (AWS SAM).
+# AWS SAM CLI (aws-sam-cli)
 
-To use the `aws-sam-cli` feature in your development container, reference it in your `devcontainer.json` configuration file:
+This feature installs the latest version of the AWS SAM CLI.
+
+## Example Usage
 
 ```json
 "features": {
     "ghcr.io/efficient-solutions/dev-containers-features/aws-sam-cli:1": {}
 }
 ```
+
+
+
+
+
+---
+
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/efficient-solutions/dev-containers-features/blob/main/src/aws-sam-cli/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
